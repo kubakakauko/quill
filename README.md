@@ -14,6 +14,13 @@ pnpm dev
 bun dev
 ```
 
+```text
+bun install tailwindcss-animate @tailwindcss/typography lucide-react
+
+bunx shadcn-ui@latest init
+bunx shadcn-ui@latest add button
+```
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
